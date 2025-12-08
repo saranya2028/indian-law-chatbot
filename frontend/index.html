@@ -1,0 +1,305 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Indian Law Chatbot</title>
+  <style>
+    :root{
+      --navy:#0f2d4a;
+      --accent:#2b6da3;
+      --card-bg:#ffffff;
+      --muted:#6b7280;
+      --bubble-user:#dff0ff;
+      --bubble-bot:#f3f6fb;
+    }
+    html,body{
+      height:100%;margin:0;
+      font-family:Inter,"Segoe UI",Roboto,Arial,sans-serif;
+      background:#111;
+    }
+
+    /* FULL BACKGROUND */
+    body{
+      background-image:url('background.jpg');
+      background-size:cover;
+      background-repeat:no-repeat;
+      background-position:center;
+      display:flex;
+      flex-direction:column;
+      align-items:center;
+    }
+
+    /* TOP NAV */
+    .topbar{
+      position:fixed;top:0;left:0;right:0;
+      height:68px;
+      display:flex;align-items:center;
+      padding:0 22px;
+      background:rgba(12,34,58,0.9);
+      color:white;
+      z-index:50;
+      box-shadow:0 2px 12px rgba(0,0,0,0.3);
+    }
+    .topbar h1{margin:0;font-size:20px;font-weight:700}
+    .topbar p{margin:0 0 0 14px;font-size:12px;color:#d6dbe3}
+
+    /* CHAT CARD - SMALLER */
+    .chat-card{
+      width: 480px;
+      max-width: 92%;
+      background:var(--card-bg);
+      margin-top:110px;
+      border-radius:12px;
+      box-shadow:0 14px 38px rgba(0,0,0,0.45);
+      overflow:hidden;
+      backdrop-filter:blur(8px);
+    }
+
+    .card-header{
+      background:rgba(15,45,74,0.9);
+      padding:14px 16px;
+      color:white;
+    }
+    .card-header h2{margin:0;font-size:17px}
+    .card-header .muted{margin-top:4px;font-size:12px;color:#e8edf5}
+
+    /* CHAT BODY SMALLER */
+    .card-body{
+      padding:12px;
+      background:linear-gradient(#fff,#fafafa);
+    }
+    .chat-window{
+      background:white;
+      border:1px solid #eee;
+      border-radius:8px;
+      padding:12px;
+      min-height:210px;
+      max-height:280px;
+      overflow:auto;
+    }
+
+    /* MESSAGE BUBBLES */
+    .msg{display:flex;gap:10px;margin:10px 0;align-items:flex-end}
+    .msg.user{justify-content:flex-end}
+    .avatar{
+      width:32px;height:32px;border-radius:50%;
+      background:#e9f2ff;color:#1b4966;font-size:13px;
+      display:flex;align-items:center;justify-content:center;
+    }
+    .bubble{
+      max-width:80%;padding:10px 12px;
+      border-radius:10px;box-shadow:0 3px 10px rgba(0,0,0,0.08);
+      font-size:14px;line-height:1.4;
+    }
+    .user-bubble{background:var(--bubble-user);color:#05385a;border-bottom-right-radius:4px}
+    .bot-bubble{background:var(--bubble-bot);color:#0b2540;border-bottom-left-radius:4px}
+
+    .bubble .source{margin-top:6px;font-size:11px;color:var(--muted)}
+    .bubble .source a{text-decoration:none;color:var(--accent)}
+    .bubble .source a:hover{text-decoration:underline}
+
+    .snippet-preview{ margin-top:8px; color:#23334a; font-size:13px; }
+
+    /* INPUT AREA SMALL */
+    .card-input{
+      padding:10px;
+      display:flex;gap:10px;
+      border-top:1px solid #eaeaea;
+      background:white;
+    }
+    textarea#query{
+      flex:1;min-height:48px;max-height:120px;
+      padding:10px;border-radius:8px;
+      border:1px solid #d6dbe3;resize:vertical;
+      font-size:14px;
+    }
+    button{
+      padding:8px 12px;border-radius:8px;border:0;
+      cursor:pointer;font-size:14px;font-weight:600;
+    }
+    button.ask{background:var(--accent);color:white}
+    button.clear{background:#f2f3f5;color:#4b5563}
+
+    .small-tip{text-align:center;font-size:12px;color:#5f6775;margin-top:6px}
+  </style>
+</head>
+<body>
+
+  <!-- TOPBAR -->
+  <div class="topbar">
+    <h1>Indian Law Chatbot</h1>
+    <p>Informational only. Not legal advice.</p>
+  </div>
+
+  <!-- CHAT CARD CENTERED + SMALL -->
+  <div class="chat-card">
+    <div class="card-header">
+      <h2>Ask Your Legal Question</h2>
+      <div class="muted">Get short answers + source law reference.</div>
+    </div>
+
+    <div class="card-body">
+      <div class="chat-window" id="chat" aria-live="polite">
+        <div style="color:#6c7480;font-size:13px">
+          Try: <strong>“Punishment for theft”</strong> or <strong>“How to file FIR?”</strong>
+        </div>
+      </div>
+
+      <div class="card-input">
+        <textarea id="query" placeholder="Type your question…"></textarea>
+        <div style="display:flex;flex-direction:column;gap:6px">
+          <button class="ask" id="askBtn">Ask</button>
+          <button class="clear" id="clearBtn">Clear</button>
+        </div>
+      </div>
+
+      <div class="small-tip">Press <b>Ctrl + Enter</b> to send</div>
+    </div>
+  </div>
+
+<script>
+/* Utility helpers */
+function escapeHtml(s){
+  if(s==null) return '';
+  return String(s).replace(/[&<>"']/g, function(m){
+    return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m];
+  });
+}
+
+/* Simple normalization for comparison */
+function normalizeForCompare(s){
+  if(!s) return '';
+  return s.replace(/\s+/g,' ').trim().toLowerCase();
+}
+
+/* Returns true if texts are effectively duplicates (one contains the other) */
+function isDuplicateSummaryAndSnippet(summary, snippet){
+  if(!summary || !snippet) return false;
+  const a = normalizeForCompare(summary);
+  const b = normalizeForCompare(snippet);
+
+  // If either is short, use substring check; otherwise check containment
+  if(a.length < 30 || b.length < 30){
+    return a.includes(b) || b.includes(a);
+  }
+  // For longer texts, check if one includes the other (simple and safe)
+  return a.includes(b) || b.includes(a);
+}
+
+/* DOM elements */
+const chat = document.getElementById('chat');
+const askBtn = document.getElementById('askBtn');
+const clearBtn = document.getElementById('clearBtn');
+const queryEl = document.getElementById('query');
+
+function appendUser(text){
+  const d=document.createElement('div');
+  d.className='msg user';
+  d.innerHTML=`<div class="bubble user-bubble">${escapeHtml(text)}</div><div class="avatar">You</div>`;
+  chat.appendChild(d); chat.scrollTop=chat.scrollHeight;
+}
+
+function appendBotHtml(html){
+  const d=document.createElement('div');
+  d.className='msg bot';
+  d.innerHTML=`<div class="avatar">AI</div><div class="bubble bot-bubble">${html}</div>`;
+  chat.appendChild(d); chat.scrollTop=chat.scrollHeight;
+}
+
+function showLoading(){
+  appendBotHtml("<em>Searching law database…</em>");
+}
+
+function removeLoading(){
+  const bots = chat.querySelectorAll('.msg.bot');
+  if(bots.length){
+    const last = bots[bots.length-1];
+    if(last && last.innerText.includes('Searching law')) last.remove();
+  }
+}
+
+/* Render the bot reply: summary + optional deduped snippet preview + source link */
+function renderAnswer(response){
+  const summary = response.summary ? String(response.summary).trim() : '';
+  const results = Array.isArray(response.results) ? response.results : [];
+  const sources = Array.isArray(response.sources) ? response.sources : [];
+
+  // Build HTML for bot bubble:
+  let html = '';
+
+  // Summary block (prominent)
+  if(summary){
+    html += `<div style="font-weight:600">${escapeHtml(summary)}</div>`;
+  } else {
+    html += `<div style="font-weight:600">No concise answer could be constructed from the indexed texts.</div>`;
+  }
+
+  // Source (prefer first source_url from response.sources, fallback to first result)
+  const sourceUrl = (sources.length && sources[0]) ? sources[0] : (results.length && results[0].source_url ? results[0].source_url : null);
+  if(sourceUrl){
+    html += `<div class="source">Source: <a href="${escapeHtml(sourceUrl)}" target="_blank" rel="noopener noreferrer">${escapeHtml(sourceUrl)}</a></div>`;
+  }
+
+  // Decide whether to show a short snippet preview (avoid repeating summary)
+  if(results.length){
+    const firstSnippet = results[0].text || '';
+    const shouldHidePreview = isDuplicateSummaryAndSnippet(summary, firstSnippet);
+    if(!shouldHidePreview && firstSnippet.trim()){
+      // limit length for preview
+      const preview = firstSnippet.length > 260 ? firstSnippet.slice(0,260).trim() + '...' : firstSnippet;
+      html += `<div class="snippet-preview">${escapeHtml(preview)}</div>`;
+    }
+  }
+
+  appendBotHtml(html);
+}
+
+/* Ask function (calls backend) */
+async function ask(){
+  const q = queryEl.value.trim();
+  if(!q) return queryEl.focus();
+
+  appendUser(q);
+  queryEl.value = '';
+  showLoading();
+
+  try{
+    const resp = await fetch('/api/answer', {
+      method:'POST',
+      headers:{'Content-Type':'application/json'},
+      body: JSON.stringify({ message: q, top_k: 5, summary_sentences: 2 })
+    });
+
+    removeLoading();
+
+    if(!resp.ok){
+      let err = 'Unknown error';
+      try { const j = await resp.json(); err = j.error || JSON.stringify(j); } catch(e){}
+      appendBotHtml(`<strong style="color:#b00020">Error:</strong> ${escapeHtml(err)}`);
+      return;
+    }
+
+    const data = await resp.json();
+    renderAnswer(data);
+
+  } catch(e){
+    removeLoading();
+    appendBotHtml(`<strong style="color:#b00020">Network error.</strong>`);
+  }
+}
+
+/* Events */
+askBtn.addEventListener('click', ask);
+clearBtn.addEventListener('click', ()=>{
+  chat.innerHTML = `<div style="color:#6c7480;font-size:13px">Try: <strong>“Punishment for theft”</strong> or <strong>“How to file FIR?”</strong></div>`;
+  queryEl.value = '';
+  queryEl.focus();
+});
+queryEl.addEventListener('keydown', e => { if(e.key === 'Enter' && (e.ctrlKey || e.metaKey)) ask(); });
+
+window.addEventListener('load', ()=>{ queryEl.focus(); });
+</script>
+
+</body>
+</html>

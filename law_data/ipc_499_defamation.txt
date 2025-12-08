@@ -1,0 +1,8 @@
+Title: IPC Section 499 — Defamation
+Summary:
+Whoever, by words spoken or written, signs, visible representations, or publications harms the reputation of a person is said to commit defamation.
+
+Exception:
+Certain acts like truth for public good, expressing opinions in good faith, and comments on public conduct are not defamation.
+
+Source: https://www.indiacode.nic.in/

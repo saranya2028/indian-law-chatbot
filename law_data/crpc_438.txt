@@ -1,0 +1,8 @@
+CrPC Section 438 | Code of Criminal Procedure, 1973 | Source: https://www.indiacode.nic.in/
+
+When any person has reason to believe that they may be arrested on accusation of a non-bailable offence, they may apply to the High Court or Court of Session for anticipatory bail.
+
+The Court may grant interim protection and impose conditions such as:
+(a) the person shall make themselves available for interrogation,
+(b) shall not make threats or inducements to any person,
+(c) shall not leave India without court permission.

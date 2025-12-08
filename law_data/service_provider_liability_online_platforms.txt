@@ -1,0 +1,4 @@
+Platform Liability | Online intermediary liability (IT Act) | source: https://www.indiacode.nic.in/
+Intermediary liability rules set out takedown and safe-harbour conditions for platforms.
+[Summary]
+Explains when platforms are protected from liability and when they must act on complaints.

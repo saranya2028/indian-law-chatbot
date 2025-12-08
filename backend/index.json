@@ -1,0 +1,1258 @@
+[
+  {
+    "id": "arbitration_act_overview__0",
+    "title_meta": "Arbitration and Conciliation Act",
+    "text": "Provides legal framework for arbitration, enforcement of awards, and interim measures. [Summary]\nEncourages out-of-court dispute resolution via arbitration with enforcement mechanisms.",
+    "source_file": "arbitration_act_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "arson_and_damage_property__0",
+    "title_meta": "IPC Sections on Arson & Mischief",
+    "text": "Willful damage to property and arson are punishable under IPC’s mischief and related sections. [Summary]\nCovers property damage offences and related penalties.",
+    "source_file": "arson_and_damage_property.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "banking_fraud_nego_instruments__0",
+    "title_meta": "Banking Offences",
+    "text": "Banking frauds and offences have specific criminal sanctions and regulatory remedies. [Summary]\nCovers bank fraud and instrument misuse.",
+    "source_file": "banking_fraud_nego_instruments.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "building_permit_local_laws__0",
+    "title_meta": "Municipal & Building Regulations",
+    "text": "Local municipal laws regulate construction, permits, and penalties for illegal construction. [Summary]\nLocal compliance and remedy mechanisms for building law violations.",
+    "source_file": "building_permit_local_laws.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "companies_act_insider_trading_note__0",
+    "title_meta": "Companies Act & Securities Laws",
+    "text": "Insider trading and securities fraud are regulated; penalties under SEBI and other statutes apply. [Summary]\nRegulation of insider trading under securities laws; corporate governance rules.",
+    "source_file": "companies_act_insider_trading_note.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_act_complaints__0",
+    "title_meta": "Consumer Protection Act — Filing Complaints",
+    "text": "A consumer complaint may be filed regarding:\n(a) defective goods,\n(b) deficient services,\n(c) unfair trade practices,\n(d) overcharging,\n(e) misleading advertisements. Complaints may be filed online via the National Consumer Helpline.",
+    "source_file": "consumer_act_complaints.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_electronic_refund_returns__0",
+    "title_meta": "Consumer Remedies",
+    "text": "Procedures for returning defective goods and claiming refunds under consumer laws. [Summary]\nConsumer rights for defective product remedies.",
+    "source_file": "consumer_electronic_refund_returns.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_misrepresentation_unfair_trade__0",
+    "title_meta": "Consumer Protection",
+    "text": "Regulates false advertising and unfair trade practices with penalties. [Summary]\nConsumer protection against misrepresentation in trade.",
+    "source_file": "consumer_misrepresentation_unfair_trade.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_product_liability__0",
+    "title_meta": "Consumer Protection Act — Product Liability",
+    "text": "A manufacturer, seller, or service provider is liable for harm caused by defective products, manufacturing defects, design defects, or failure to warn consumers.",
+    "source_file": "consumer_product_liability.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_protection_act_complaints__0",
+    "title_meta": "Consumer Protection Act",
+    "text": "Consumers can file complaints in District, State, or National Commissions for defective goods and unfair trade practices. [Summary]\nExplains consumer complaints and compensation mechanisms.",
+    "source_file": "consumer_protection_act_complaints.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_protection_online_defamation__0",
+    "title_meta": "Consumer Protection & Related Remedies",
+    "text": "Complaints about online services, defamation via platforms, and related consumer issues can be filed with appropriate commissions; separate criminal remedy may apply. [Summary]\nVictims may have regulatory/consumer options in addition to criminal remedies.",
+    "source_file": "consumer_protection_online_defamation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_rights__0",
+    "title_meta": "Consumer Rights",
+    "text": "Consumers have the following rights:\n1. Right to Safety — protection against hazardous goods/services. 2. Right to Information — correct details about product quality, quantity, price, etc. 3. Right to Choose — access to a variety of goods/services at competitive prices.",
+    "source_file": "consumer_rights.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_rights__1",
+    "title_meta": "Consumer Rights",
+    "text": "4. Right to be Heard — consumer grievances must be addressed. 5. Right to Redressal — compensation for defective goods or deficient services. 6. Right to Consumer Education.",
+    "source_file": "consumer_rights.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_rights__2",
+    "title_meta": "Consumer Rights",
+    "text": "Complaints may be filed at District, State, or National Commissions depending on claim value.",
+    "source_file": "consumer_rights.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "consumer_time_limits_warranty__0",
+    "title_meta": "Consumer Protection",
+    "text": "Time limits and procedures for consumer claims, including warranty claims. [Summary]\nCovers timebars and remedies at consumer commissions.",
+    "source_file": "consumer_time_limits_warranty.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "contract_act_17_fraud__0",
+    "title_meta": "Indian Contract Act Section 17",
+    "text": "\"Fraud\" includes:\n(a) suggestion of untrue facts,\n(b) active concealment,\n(c) promise made without intention to perform,\n(d) any act fitted to deceive. A contract induced by fraud is voidable.",
+    "source_file": "contract_act_17_fraud.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "criminal_procedure_bail_types__0",
+    "title_meta": "Bail Types & Procedure",
+    "text": "Procedure and principles for granting bail including factors courts consider. [Summary]\nExplains different bail types and judicial considerations.",
+    "source_file": "criminal_procedure_bail_types.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_154_fir__0",
+    "title_meta": "CrPC Section 154",
+    "text": "Every information relating to a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing and read over to the informant. A copy of the FIR must be provided free of cost.",
+    "source_file": "crpc_154_fir.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_156_investigation__0",
+    "title_meta": "CrPC Section 156",
+    "text": "Any officer in charge of a police station may investigate any cognizable case without order of a Magistrate. The Magistrate may also order investigation under this section.",
+    "source_file": "crpc_156_investigation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_156_investigation_by_police__0",
+    "title_meta": "CrPC Section 156",
+    "text": "A police officer may, without the order of a Magistrate, investigate any cognizable case. [Summary]\nPolice powers to investigate cognizable offenses.",
+    "source_file": "crpc_156_investigation_by_police.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_167_remand__0",
+    "title_meta": "CrPC Section 167",
+    "text": "When investigation cannot be completed within 24 hours, the accused may be forwarded to a Magistrate who may authorize detention for:\n• up to 15 days in police custody,\n• up to 90 days for serious offences,\n• up to 60 days for other offences.",
+    "source_file": "crpc_167_remand.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_190_cognizance__0",
+    "title_meta": "CrPC Section 190",
+    "text": "A Magistrate may take cognizance of an offence upon:\n(a) receiving a complaint,\n(b) a police report,\n(c) information from any person,\n(d) upon his own knowledge.",
+    "source_file": "crpc_190_cognizance.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_200_exam_complainant__0",
+    "title_meta": "CrPC Section 200",
+    "text": "A Magistrate taking cognizance of an offence on complaint shall examine the complainant and the witnesses upon oath, and the substance of such examination shall be recorded.",
+    "source_file": "crpc_200_exam_complainant.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_202_inquiry__0",
+    "title_meta": "CrPC Section 202",
+    "text": "A Magistrate may postpone issue of process and inquire into the case or direct a police investigation to determine if there is sufficient ground to proceed.",
+    "source_file": "crpc_202_inquiry.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_204_issue_process__0",
+    "title_meta": "CrPC Section 204",
+    "text": "If the Magistrate finds sufficient grounds to proceed, they shall issue summons or warrant to the accused.",
+    "source_file": "crpc_204_issue_process.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_320_compoundable_offences__0",
+    "title_meta": "CrPC Section 320",
+    "text": "Certain offences may be compounded (settled) by the victim, such as simple hurt, defamation, trespass, and adultery. Some require court permission.",
+    "source_file": "crpc_320_compoundable_offences.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_41__0",
+    "title_meta": "CrPC Section 41",
+    "text": "Any police officer may, without an order from a Magistrate and without a warrant, arrest any person:\n(a) who has committed a cognizable offence,\n(b) who is in possession of stolen property,\n(c) who obstructs a police officer in the execution of duty,\n(d) who is a proclaimed offender,\n(e) who commits a cognizable offence in the presence of the officer,\n(f) against whom credible information exists of involvement in a cognizable offence. Arrest should be made only when necessary and with recorded reasons.",
+    "source_file": "crpc_41.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_41_arrest_without_warrant__0",
+    "title_meta": "CrPC Section 41",
+    "text": "Circumstances where police may arrest without warrant, and duties post-arrest. [Summary]\nWhen police can arrest without a warrant and required procedural safeguards.",
+    "source_file": "crpc_41_arrest_without_warrant.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_438__0",
+    "title_meta": "CrPC Section 438",
+    "text": "When any person has reason to believe that they may be arrested on accusation of a non-bailable offence, they may apply to the High Court or Court of Session for anticipatory bail. The Court may grant interim protection and impose conditions such as:\n(a) the person shall make themselves available for interrogation,\n(b) shall not make threats or inducements to any person,\n(c) shall not leave India without court permission.",
+    "source_file": "crpc_438.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "crpc_57_procedure_after_arrest__0",
+    "title_meta": "CrPC Section 57",
+    "text": "Procedure for producing arrested persons before Magistrate and remand decisions. [Summary]\nDescribes custody and remand timelines and magistrate’s role.",
+    "source_file": "crpc_57_procedure_after_arrest.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "cybercrime_phishing_and_fraud__0",
+    "title_meta": "Cybercrime Overview",
+    "text": "Phishing, identity theft, unauthorized access and financial cybercrimes are prosecutable under IT Act and IPC. [Summary]\nCommon cybercrime types and applicable laws for prosecution.",
+    "source_file": "cybercrime_phishing_and_fraud.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "dowry_death_ipc_304b__0",
+    "title_meta": "IPC Section 304B",
+    "text": "Death of a woman within seven years of marriage due to dowry-related cruelty is a distinct offence with severe punishment. [Summary]\nDowry death has specific presumption of dowry-related cruelty and high penalties.",
+    "source_file": "dowry_death_ipc_304b.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "dowry_prohibition_act_3_offence__0",
+    "title_meta": "Dowry Prohibition Act",
+    "text": "Giving or taking dowry is prohibited; demands and harassment related to dowry are punishable. [Summary]\nCovers dowry demands and related criminal and civil remedies.",
+    "source_file": "dowry_prohibition_act_3_offence.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "dv_act_definitions__0",
+    "title_meta": "Domestic Violence Act — Key Definitions",
+    "text": "\"Domestic violence\" includes:\n(a) physical abuse — causing bodily pain or harm,\n(b) sexual abuse — any conduct of a sexual nature that abuses, humiliates, or degrades,\n(c) verbal and emotional abuse — insults, humiliation, name-calling, threats,\n(d) economic abuse — deprivation of financial resources, disposal of assets without consent, restricting access to household necessities. The Act provides protection orders, residence orders, monetary relief, custody orders, and compensation.",
+    "source_file": "dv_act_definitions.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "dv_act_protection_orders__0",
+    "title_meta": "Protection of Women from Domestic Violence Act — Protection Orders",
+    "text": "A Protection Order may prohibit the respondent from:\n(a) committing domestic violence,\n(b) entering the victim’s residence,\n(c) attempting to communicate,\n(d) alienating assets,\n(e) causing violence to dependents.",
+    "source_file": "dv_act_protection_orders.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "dv_act_residence_orders__0",
+    "title_meta": "Domestic Violence Act — Residence Orders",
+    "text": "The Magistrate may:\n(a) restrain the respondent from dispossessing the victim,\n(b) direct the respondent to remove themselves from the shared household,\n(c) restrain the respondent from entering certain portions of the home,\n(d) secure alternate accommodation for the victim.",
+    "source_file": "dv_act_residence_orders.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "electoral_offences_overview__0",
+    "title_meta": "Representation of People Act",
+    "text": "Corrupt practices, illegal conduct in elections and associated penalties. [Summary]\nCovers offences around elections and corrupt practices.",
+    "source_file": "electoral_offences_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "electricity_act_compliance__0",
+    "title_meta": "Electricity Act",
+    "text": "Framework for electricity supply, licensing, and consumer grievance redressal. [Summary]\nRegulatory structure for power distribution and consumer rights.",
+    "source_file": "electricity_act_compliance.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "employment_minimum_wages_and_overtime__0",
+    "title_meta": "Labour Law",
+    "text": "Employers must pay minimum wages and overtime where applicable; enforcement mechanisms exist. [Summary]\nWorker rights for pay and overtime, and enforcement options.",
+    "source_file": "employment_minimum_wages_and_overtime.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "environmental_protection_penalties__0",
+    "title_meta": "Environment Protection Act",
+    "text": "Pollution control, regulatory powers and penalties for breaches under environmental law. [Summary]\nCovers penalties and remedial orders for environmental harm.",
+    "source_file": "environmental_protection_penalties.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "evidence_act_24_confession__0",
+    "title_meta": "Indian Evidence Act Section 24",
+    "text": "A confession made by an accused is irrelevant if it appears to the Court to have been caused by inducement, threat, or promise from a person in authority.",
+    "source_file": "evidence_act_24_confession.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "evidence_act_32_dying_declaration__0",
+    "title_meta": "Evidence Act Section 32",
+    "text": "Statements made by a person as to the cause of their death, or as to circumstances of the transaction resulting in their death, are relevant even if the person is dead.",
+    "source_file": "evidence_act_32_dying_declaration.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "evidence_act_65b_electronic__0",
+    "title_meta": "Indian Evidence Act Section 65B",
+    "text": "Electronic records are admissible as evidence if accompanied by a certificate under Section 65B(4) stating the manner of production, device details, and assurance of integrity.",
+    "source_file": "evidence_act_65b_electronic.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "evidence_chain_of_custody_forensics__0",
+    "title_meta": "Evidence & Forensics",
+    "text": "Disciplines for collecting, preserving and presenting forensic evidence in courts. [Summary]\nImportance of chain-of-custody for admissible forensic evidence.",
+    "source_file": "evidence_chain_of_custody_forensics.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "family_law_divorce_overview__0",
+    "title_meta": "Marriage Laws",
+    "text": "Grounds for divorce vary by personal law; cruelty, adultery, desertion are common grounds. [Summary]\nOverview of divorce grounds and civil remedies depending on personal law.",
+    "source_file": "family_law_divorce_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "food_safety_laws_overview__0",
+    "title_meta": "Food Safety & Standards Act",
+    "text": "Regulatory framework for food safety, licensing, and penalties for adulteration. [Summary]\nEnforcement mechanisms for food safety violations.",
+    "source_file": "food_safety_laws_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "foreign_exchange_regulations_overview__0",
+    "title_meta": "FEMA",
+    "text": "Regulates foreign exchange dealings and penalties for contravention. [Summary]\nControls on foreign exchange transactions and penalties for violations.",
+    "source_file": "foreign_exchange_regulations_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "gst_compliance_returns__0",
+    "title_meta": "GST Act",
+    "text": "GST return filing timelines and penalties for non-compliance. [Summary]\nExplains reporting obligations under GST law.",
+    "source_file": "gst_compliance_returns.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "gst_penalties_nonfiling__0",
+    "title_meta": "GST Act",
+    "text": "Outlines penalties for late filing, evasion, and fraudulent claims. [Summary]\nConsequences for non-compliance with GST obligations.",
+    "source_file": "gst_penalties_nonfiling.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "gwa_7_appointment_guardian__0",
+    "title_meta": "Guardians and Wards Act Section 7",
+    "text": "The Court may appoint a guardian when it is satisfied that it is necessary for the welfare of a minor.",
+    "source_file": "gwa_7_appointment_guardian.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "hate_speech_and_communal_violence__0",
+    "title_meta": "Public Order & Hate Speech",
+    "text": "Speech that incites communal hatred or violence can be prosecuted under various provisions. [Summary]\nProhibits incitement to violence and communal discord.",
+    "source_file": "hate_speech_and_communal_violence.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "hma_10_judicial_separation__0",
+    "title_meta": "Hindu Marriage Act Section 10",
+    "text": "Either spouse may seek judicial separation on grounds of cruelty, desertion, adultery, or other grounds similar to divorce.",
+    "source_file": "hma_10_judicial_separation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "hma_13__0",
+    "title_meta": "Hindu Marriage Act Section 13",
+    "text": "A marriage may be dissolved by a decree of divorce on grounds such as:\n(a) cruelty,\n(b) desertion for a continuous period of not less than two years,\n(c) adultery,\n(d) conversion to another religion,\n(e) incurable mental disorder,\n(f) venereal disease,\n(g) renunciation of the world,\n(h) not heard of as alive for seven years. Either spouse may file for divorce based on these grounds.",
+    "source_file": "hma_13.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "hma_26_child_custody__0",
+    "title_meta": "Hindu Marriage Act Section 26",
+    "text": "The Court may pass interim or final orders regarding custody, maintenance, and education of minor children during marriage or divorce proceedings.",
+    "source_file": "hma_26_child_custody.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "human_rights_commission_overview__0",
+    "title_meta": "Human Rights Act",
+    "text": "Commissions receive complaints of human rights violations and recommend remedies. [Summary]\nNon-judicial redressal forums for rights violations.",
+    "source_file": "human_rights_commission_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "income_tax_evasion_penalty__0",
+    "title_meta": "Income Tax Act",
+    "text": "Penalties and prosecution provisions for tax evasion and fraud. [Summary]\nCovers penalties and criminal liability for tax offences.",
+    "source_file": "income_tax_evasion_penalty.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "insurance_claims_overview__0",
+    "title_meta": "Insurance Act & Regulations",
+    "text": "Policy terms, claims process, and dispute resolution for insurance claims. [Summary]\nExplains claims filing and grievance redressal mechanisms.",
+    "source_file": "insurance_claims_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_120b_conspiracy__0",
+    "title_meta": "IPC Section 120B",
+    "text": "Whoever is a party to a criminal conspiracy to commit an offense shall be punished as a conspirator. [Summary]\nCriminal conspiracy covers agreements to commit offenses; conspirators can be punished even if the planned offense was not completed.",
+    "source_file": "ipc_120b_conspiracy.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_120b_criminal_conspiracy__0",
+    "title_meta": "IPC Section 120B",
+    "text": "Whoever is a party to a criminal conspiracy shall be punished with imprisonment up to six months, or more depending on the offence conspired.",
+    "source_file": "ipc_120b_criminal_conspiracy.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_141_unlawful_assembly__0",
+    "title_meta": "IPC Section 141",
+    "text": "An assembly of five or more persons whose common object is to commit an offense, resist the execution of law, or commit mischief, etc. is an unlawful assembly. [Summary]\nDefines unlawful assembly and when group action is criminal.",
+    "source_file": "ipc_141_unlawful_assembly.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_147_rioting__0",
+    "title_meta": "IPC Section 147",
+    "text": "When force or violence is used by an unlawful assembly in prosecution of common object, members are guilty of rioting. [Summary]\nRioting describes violent acts by groups; punishments vary with severity.",
+    "source_file": "ipc_147_rioting.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_148_rioting_armed__0",
+    "title_meta": "IPC Section 148",
+    "text": "Rioting while being armed with deadly weapon increases punishment. [Summary]\nBeing armed during rioting attracts higher penalties.",
+    "source_file": "ipc_148_rioting_armed.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_182_false_info_police__0",
+    "title_meta": "IPC Section 182",
+    "text": "Giving false information to a public servant to cause them to use their authority to injure or annoy another person is punishable with imprisonment up to six months or fine.",
+    "source_file": "ipc_182_false_info_police.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_211_false_charge_crime__0",
+    "title_meta": "IPC Section 211",
+    "text": "Falsely charging a person with an offence knowing that there is no lawful ground is punishable with imprisonment up to two years, or up to seven years if the charge is grave.",
+    "source_file": "ipc_211_false_charge_crime.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_292_obscene_publication__0",
+    "title_meta": "IPC Section 292",
+    "text": "The sale or distribution of obscene material (including electronic distribution) is prohibited and punishable. [Summary]\nObscene publications distributed online can be prosecuted under IPC.",
+    "source_file": "ipc_292_obscene_publication.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_295_insult_religious_feelings__0",
+    "title_meta": "IPC Section 295",
+    "text": "Acts intended to insult religious feelings of any class are punishable. [Summary]\nProhibits actions that outrage religious feelings.",
+    "source_file": "ipc_295_insult_religious_feelings.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_295a__0",
+    "title_meta": "IPC Section 295A",
+    "text": "Deliberate and malicious acts intended to outrage religious feelings of any class by insulting its religion or beliefs shall be punished with imprisonment up to three years, or with fine, or with both.",
+    "source_file": "ipc_295a.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_295a_deliberate_and_malicious_intent__0",
+    "title_meta": "IPC Section 295A",
+    "text": "Deliberate and malicious acts intended to outrage religious feelings are punished. [Summary]\nTargets deliberate attacks on religious harmony.",
+    "source_file": "ipc_295a_deliberate_and_malicious_intent.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_302__0",
+    "title_meta": "IPC Section 302",
+    "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine.",
+    "source_file": "ipc_302.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_302_murder__0",
+    "title_meta": "IPC Section 302",
+    "text": "Whoever commits murder shall be punished with death, or imprisonment for life, and shall also be liable to fine. [Summary]\nDefines punishment for murder and severity of sentences.",
+    "source_file": "ipc_302_murder.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_304_homicide_not_amounting_to_murder__0",
+    "title_meta": "IPC Section 304",
+    "text": "Punishment for culpable homicide that does not amount to murder depends on intent and circumstances. [Summary]\nLesser degree of culpable homicide with reduced punishment compared to murder.",
+    "source_file": "ipc_304_homicide_not_amounting_to_murder.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_307__0",
+    "title_meta": "IPC Section 307",
+    "text": "Whoever does any act with such intention or knowledge and under such circumstances that, if they caused death, they would be guilty of murder, shall be punished with imprisonment up to ten years, and also liable to fine.",
+    "source_file": "ipc_307.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_307_attempt_to_murder__0",
+    "title_meta": "IPC Section 307",
+    "text": "Whoever does any act with such intention or knowledge and under such circumstances that, if they caused death, they would be guilty of murder, is guilty of attempt to murder. [Summary]\nAttempted murder carries heavy imprisonment even if death did not occur.",
+    "source_file": "ipc_307_attempt_to_murder.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_323__0",
+    "title_meta": "IPC Section 323",
+    "text": "Whoever voluntarily causes hurt shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to one thousand rupees, or with both.",
+    "source_file": "ipc_323.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_324__0",
+    "title_meta": "IPC Section 324",
+    "text": "Whoever voluntarily causes hurt by means of any dangerous weapon or instrument shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+    "source_file": "ipc_324.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_34_common_intension__0",
+    "title_meta": "IPC Section 34",
+    "text": "When a criminal act is done by several persons in furtherance of the common intention of all, each of such persons is liable as if they alone committed the act.",
+    "source_file": "ipc_34_common_intension.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354__0",
+    "title_meta": "IPC Section 354",
+    "text": "Whoever assaults or uses criminal force to any woman, intending to outrage or knowing it to be likely that he will thereby outrage her modesty, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to five years, and shall also be liable to fine.",
+    "source_file": "ipc_354.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354a_sexual_harassment__0",
+    "title_meta": "IPC Section 354A",
+    "text": "Sexual harassment includes:\n(a) unwelcome physical contact,\n(b) demand for sexual favours,\n(c) showing pornography,\n(d) sexually coloured remarks. Punishable with imprisonment up to three years or fine.",
+    "source_file": "ipc_354a_sexual_harassment.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354a_sexual_harassment_online__0",
+    "title_meta": "IPC Section 354A",
+    "text": "Sexual harassment includes unwelcome physical contact, advances, or remarks; in some contexts online sexual harassment may be covered. [Summary]\nOnline sexual harassment can be treated as sexual harassment depending on facts.",
+    "source_file": "ipc_354a_sexual_harassment_online.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354c_image_sharing_privacy__0",
+    "title_meta": "IPC Section 354C",
+    "text": "Capturing or sharing private acts or images without consent is punishable. [Summary]\nAddresses non-consensual photography and image dissemination.",
+    "source_file": "ipc_354c_image_sharing_privacy.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354c_sexual_harrassment_image_sharing__0",
+    "title_meta": "IPC Section 354C",
+    "text": "Capturing a person’s private acts or sharing private images without consent is punishable. [Summary]\nNon-consensual image-sharing or voyeurism attracts criminal penalties.",
+    "source_file": "ipc_354c_sexual_harrassment_image_sharing.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_354d_stalking__0",
+    "title_meta": "IPC Section 354D",
+    "text": "Whoever follows a woman and monitors the use by a woman of the internet, email or any other form of electronic communication, commits the offense of stalking. [Summary]\nStalking (including electronic monitoring) is a punishable offense.",
+    "source_file": "ipc_354d_stalking.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_375_definition__0",
+    "title_meta": "IPC Section 375",
+    "text": "A man is said to commit rape if he has sexual intercourse with a woman under circumstances including:\n(a) against her will,\n(b) without her consent,\n(c) with consent obtained by fear or fraud,\n(d) with consent when she is intoxicated,\n(e) with consent given under a mistaken identity,\n(f) with or without her consent when she is under 18 years of age.",
+    "source_file": "ipc_375_definition.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_376_punishment__0",
+    "title_meta": "IPC Section 376",
+    "text": "Punishment for rape shall not be less than ten years and may extend to life imprisonment, along with fine, considering physical and mental trauma inflicted on the victim.",
+    "source_file": "ipc_376_punishment.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_376_rape__0",
+    "title_meta": "IPC Section 376",
+    "text": "Rape is punishable with rigorous imprisonment for a specified minimum term and may extend to life imprisonment under certain circumstances. [Summary]\nDefines punishment for rape and aggravating factors.",
+    "source_file": "ipc_376_rape.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_379__0",
+    "title_meta": "IPC Section 379",
+    "text": "Whoever commits theft shall be punished with imprisonment which may extend to three years, or with fine, or with both.",
+    "source_file": "ipc_379.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_406__0",
+    "title_meta": "IPC Section 406",
+    "text": "Whoever commits criminal breach of trust shall be punished with imprisonment up to three years, or with fine, or with both.",
+    "source_file": "ipc_406.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_420__0",
+    "title_meta": "IPC Section 420",
+    "text": "Whoever cheats and dishonestly induces the person deceived to deliver any property shall be punished with imprisonment up to seven years and shall also be liable to fine.",
+    "source_file": "ipc_420.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_420_cheating__0",
+    "title_meta": "IPC Section 420",
+    "text": "Whoever cheats and dishonestly induces the person deceived to deliver property shall be punished with imprisonment and fine. [Summary]\nDefines cheating and criminal consequences for fraudulent inducement.",
+    "source_file": "ipc_420_cheating.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_498a__0",
+    "title_meta": "IPC Section 498A",
+    "text": "Whoever, being the husband or the relative of the husband of a woman, subjects such woman to cruelty shall be punished with imprisonment for a term which may extend to three years and shall also be liable to fine. Explanation — For the purpose of this section, \"cruelty\" means:\n(a) any willful conduct likely to drive the woman to commit suicide or cause grave injury; or\n(b) harassment with a view to coercing her or her relatives to meet unlawful demands for dowry.",
+    "source_file": "ipc_498a.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_498a_cruelty_by_husband_relatives__0",
+    "title_meta": "IPC Section 498A",
+    "text": "Subjecting a married woman to cruelty that may drive her to suicide or cause grave injury is punishable. [Summary]\nDomestic cruelty by husband/relatives is a non-bailable offence in many cases.",
+    "source_file": "ipc_498a_cruelty_by_husband_relatives.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_499_defamation__0",
+    "title_meta": "Title: IPC Section 499 — Defamation",
+    "text": "Summary:\nWhoever, by words spoken or written, signs, visible representations, or publications harms the reputation of a person is said to commit defamation. Exception:\nCertain acts like truth for public good, expressing opinions in good faith, and comments on public conduct are not defamation. Source: https://www.indiacode.nic.in/",
+    "source_file": "ipc_499_defamation.txt",
+    "source_url": null,
+    "last_updated": null
+  },
+  {
+    "id": "ipc_500_defamation_punishment__0",
+    "title_meta": "Title: IPC Section 500 — Punishment for defamation",
+    "text": "Summary:\nDefamation is punishable with simple imprisonment which may extend to two years, or with fine, or with both. Source: https://www.indiacode.nic.in/",
+    "source_file": "ipc_500_defamation_punishment.txt",
+    "source_url": null,
+    "last_updated": null
+  },
+  {
+    "id": "ipc_500_punishment_defamation__0",
+    "title_meta": "IPC Section 500",
+    "text": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both. [Summary]\nPunishment for defamation may include imprisonment up to two years, fine, or both.",
+    "source_file": "ipc_500_punishment_defamation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_503_criminal_intimidation__0",
+    "title_meta": "IPC Section 503",
+    "text": "Whoever threatens another with injury to person, reputation or property, or to cause alarm, is guilty of criminal intimidation. [Summary]\nThreats of harm to person or reputation are punishable.",
+    "source_file": "ipc_503_criminal_intimidation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_504_intentional_insult__0",
+    "title_meta": "IPC Section 504",
+    "text": "Whoever intentionally insults, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, is punishable. [Summary]\nIntentional insults that provoke breach of the peace are punishable.",
+    "source_file": "ipc_504_intentional_insult.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_505_part2_public_mischief_social_media__0",
+    "title_meta": "IPC Section 505(2)",
+    "text": "Statements made with intent to cause fear or alarm among public, or incite violence, may be punished under clause (2). [Summary]\nSocial media posts that incite public disorder or fear may fall under this provision.",
+    "source_file": "ipc_505_part2_public_mischief_social_media.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_505_public_mischief__0",
+    "title_meta": "IPC Section 505",
+    "text": "Statements likely to cause fear, alarm, or enmity among communities are punishable. [Summary]\nApplies to statements (including online) that can incite public disorder.",
+    "source_file": "ipc_505_public_mischief.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_505_statements_public_mischief__0",
+    "title_meta": "IPC Section 505",
+    "text": "Whoever makes, publishes, or circulates any statement, rumor or report with intent to cause, or which is likely to cause, any officer, soldier, sailor or airman to mutiny or disorderly conduct, or to encourage animosity among communities, shall be punished. [Summary]\nPublishing certain statements that cause public alarm, enmity, or danger is punishable.",
+    "source_file": "ipc_505_statements_public_mischief.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_506_punishment_intimidation__0",
+    "title_meta": "IPC Section 506",
+    "text": "Whoever commits criminal intimidation is punishable with imprisonment or fine. [Summary]\nSpecifies punishments for intimidation and threatening acts.",
+    "source_file": "ipc_506_punishment_intimidation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_507_anonymous_threat__0",
+    "title_meta": "Title: IPC Section 507 — Criminal intimidation by anonymous communication",
+    "text": "Summary:\nWhoever commits the offense of criminal intimidation by anonymous communication shall be punished with imprisonment which may extend to two years. Source: https://www.indiacode.nic.in/",
+    "source_file": "ipc_507_anonymous_threat.txt",
+    "source_url": null,
+    "last_updated": null
+  },
+  {
+    "id": "ipc_507a_stalking_online_offences__0",
+    "title_meta": "IPC (companion)",
+    "text": "Various provisions address stalking and harassment; online stalking which induces fear or alarm may be covered by criminal intimidation, causing hurt, or other specific provisions. [Summary]\nOnline stalking/harassment can be prosecuted under stalking, intimidation, or related IPC sections depending on facts.",
+    "source_file": "ipc_507a_stalking_online_offences.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_509.__0",
+    "title_meta": "IPC Section 509",
+    "text": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound, gesture, or exhibits any object with intent that it be heard or seen, shall be punished with imprisonment up to one year, or with fine, or with both.",
+    "source_file": "ipc_509..txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_509_insult_modesty__0",
+    "title_meta": "IPC Section 509 (Detailed)",
+    "text": "Intentionally insulting the modesty of a woman through words, gestures, or intrusion upon her privacy is punishable with imprisonment up to one year, or fine, or both.",
+    "source_file": "ipc_509_insult_modesty.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_509_insult_to_modesty__0",
+    "title_meta": "IPC Section 509",
+    "text": "Insulting the modesty of a woman by words, gestures, or acts is an offense. [Summary]\nCovers insulting behavior targeting a woman's modesty.",
+    "source_file": "ipc_509_insult_to_modesty.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ipc_509_word_or_gesture_intent_to_outrage__0",
+    "title_meta": "IPC Section 509",
+    "text": "Whoever intends to insult the modesty of a woman by word or gesture shall be punished. [Summary]\nOffensive words/gestures intended to insult a woman's modesty are punishable.",
+    "source_file": "ipc_509_word_or_gesture_intent_to_outrage.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66__0",
+    "title_meta": "IT Act Section 66",
+    "text": "If any person, dishonestly or fraudulently, does any act referred to in Section 43 (such as unauthorized access, data modification, virus introduction), they shall be punished with imprisonment up to three years or with fine up to five lakh rupees, or both.",
+    "source_file": "it_act_66.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66_d_cheating_by_impersonation__0",
+    "title_meta": "IT Act Section 66D",
+    "text": "Whoever cheats or dishonestly induces any person by personation using a computer or network shall be punished with imprisonment or fine. [Summary]\nUsing electronic means to impersonate or cheat is an offense under the IT Act.",
+    "source_file": "it_act_66_d_cheating_by_impersonation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66a_history_note__0",
+    "title_meta": "IT Act - Section 66A Note",
+    "text": "Note: Section 66A (which criminalized sending offensive messages) was struck down by the Supreme Court; however, other provisions and IPC sections remain applicable for online misuse. [Summary]\n66A is no longer in force; rely on IPC/IT Act provisions currently operative.",
+    "source_file": "it_act_66a_history_note.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66c_identity_theft__0",
+    "title_meta": "IT Act Section 66C",
+    "text": "Identity theft involving fraudulent or dishonest use of another person’s password, biometric data, or electronic signature is punishable with imprisonment up to three years and fine up to one lakh rupees.",
+    "source_file": "it_act_66c_identity_theft.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66d_cheating_by_personation__0",
+    "title_meta": "IT Act Section 66D",
+    "text": "Cheating by impersonation using a computer resource or network is punishable. [Summary]\nImpersonation/fraud via digital means is an offense under IT Act.",
+    "source_file": "it_act_66d_cheating_by_personation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66d_cheating_online__0",
+    "title_meta": "IT Act Section 66D",
+    "text": "Cheating by personation using electronic communication, including phishing or online scams, is punishable with imprisonment up to three years and fine up to one lakh rupees.",
+    "source_file": "it_act_66d_cheating_online.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_66e_violation_of_privacy__0",
+    "title_meta": "IT Act Section 66E",
+    "text": "Whoever intentionally captures, publishes or transmits images of a private area of a person without consent shall be punished. [Summary]\nCapturing and sharing private images without consent is an offence under IT Act.",
+    "source_file": "it_act_66e_violation_of_privacy.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_67__0",
+    "title_meta": "IT Act Section 67",
+    "text": "Whoever publishes or transmits or causes to be published or transmitted in electronic form any material which is lascivious or appeals to the prurient interest, or if its effect is such as to tend to deprave and corrupt persons, shall be punished with imprisonment up to three years on first conviction, and up to five years on subsequent convictions, along with fine.",
+    "source_file": "it_act_67.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_67_obscene_electronic__0",
+    "title_meta": "IT Act Section 67",
+    "text": "Publishing or transmitting obscene content online is punishable with imprisonment and fine. [Summary]\nRegulates obscene material distributed electronically.",
+    "source_file": "it_act_67_obscene_electronic.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "it_act_67_obscene_material__0",
+    "title_meta": "Title: IT Act Section 67 — Publishing or transmitting obscene material in electronic form",
+    "text": "Summary:\nWhoever publishes or transmits obscene content electronically shall be punished with imprisonment up to three years and a fine for the first conviction; and imprisonment up to five years for subsequent convictions. Source: https://www.indiacode.nic.in/",
+    "source_file": "it_act_67_obscene_material.txt",
+    "source_url": null,
+    "last_updated": null
+  },
+  {
+    "id": "it_act_67b_cyberstalking__0",
+    "title_meta": "IT Act (related)",
+    "text": "The IT Act and IPC provisions together address persistent online harassment, repeated unwanted messages, threats and cyberstalking. [Summary]\nRepeated unwanted communications and harassment can be prosecuted using IT Act and IPC provisions.",
+    "source_file": "it_act_67b_cyberstalking.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "juvenile_justice_rehabilitation__0",
+    "title_meta": "Juvenile Justice Act",
+    "text": "Provides procedures for juveniles in conflict with law, including rehabilitation, adoption of child protection measures. [Summary]\nFocuses on reformative measures for minors rather than punitive ones.",
+    "source_file": "juvenile_justice_rehabilitation.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "labour_gratuity_act__0",
+    "title_meta": "Payment of Gratuity Act — Eligibility",
+    "text": "Gratuity is payable to an employee who has completed five years of continuous service upon termination, resignation, retirement, or death.",
+    "source_file": "labour_gratuity_act.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "labour_minimum_wages__0",
+    "title_meta": "Minimum Wages Act — Key Provisions",
+    "text": "Employers must pay at least the minimum rates of wages fixed by the government. Payment must be timely and in cash or bank transfer.",
+    "source_file": "labour_minimum_wages.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "labour_payment_of_wages__0",
+    "title_meta": "Payment of Wages Act",
+    "text": "Rules on timely payment of wages and permissible deductions under employment laws. [Summary]\nProtects workers’ wage rights and remedies for violation.",
+    "source_file": "labour_payment_of_wages.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "land_registration_property_rights__0",
+    "title_meta": "Registration Act & Transfer of Property",
+    "text": "Procedural requirements to register property transfers and remedies for disputes. [Summary]\nRegistration formalities and legal effect on property rights.",
+    "source_file": "land_registration_property_rights.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "landlord_tenant_eviction__0",
+    "title_meta": "Rent Control & Civil Procedure",
+    "text": "Eviction for non-payment of rent, use violations, and landlord remedies under relevant state laws. [Summary]\nEviction requires statutory procedure; state-specific laws apply.",
+    "source_file": "landlord_tenant_eviction.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "maintenance_law_hindu__0",
+    "title_meta": "Hindu Marriage Act Section 24",
+    "text": "Court may order maintenance for spouse/children during proceedings where necessary. [Summary]\nCovers interim maintenance and court powers to protect dependent spouses.",
+    "source_file": "maintenance_law_hindu.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "marriage_act_24_maintenance__0",
+    "title_meta": "Hindu Marriage Act Section 24",
+    "text": "The Court may order either spouse to pay maintenance and litigation expenses to the other spouse if they lack independent income to support themselves during court proceedings.",
+    "source_file": "marriage_act_24_maintenance.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "marriage_act_9_restitution__0",
+    "title_meta": "Hindu Marriage Act Section 9",
+    "text": "When either spouse withdraws from the society of the other without reasonable cause, the aggrieved party may apply for restitution of conjugal rights.",
+    "source_file": "marriage_act_9_restitution.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "marriage_annulment_voidable_marriage__0",
+    "title_meta": "Family Law",
+    "text": "Grounds for annulment and distinctions between void and voidable marriages under personal laws. [Summary]\nExplains annulment and legal consequences for parties.",
+    "source_file": "marriage_annulment_voidable_marriage.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "medical_negligence_overview__0",
+    "title_meta": "Medical Negligence",
+    "text": "Patients can seek civil remedies for negligence and compensation via courts or consumer forums. [Summary]\nMedical negligence claims are civil in nature with potential compensation.",
+    "source_file": "medical_negligence_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "minimum_wages_act__0",
+    "title_meta": "Minimum Wages Act",
+    "text": "Employers must pay at least the statutory minimum wage to workers in scheduled employments. [Summary]\nDefines minimum wage obligations and enforcement mechanisms.",
+    "source_file": "minimum_wages_act.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "motor_vehicles_accident_claims__0",
+    "title_meta": "Motor Vehicles Act",
+    "text": "Procedures to claim compensation for motor accident victims via Motor Accidents Claims Tribunal. [Summary]\nProvides forum and procedure for accident compensation claims.",
+    "source_file": "motor_vehicles_accident_claims.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "motor_vehicles_compulsory_insurance__0",
+    "title_meta": "Motor Vehicles Act",
+    "text": "Owners must have at least third-party insurance for vehicles; compensation rules apply for accidents. [Summary]\nEnsures compensation mechanisms for victims of motor accidents.",
+    "source_file": "motor_vehicles_compulsory_insurance.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "mv_act_18_drunk_driving__0",
+    "title_meta": "Motor Vehicles Act Section 185",
+    "text": "Driving under the influence of alcohol or drugs with blood alcohol exceeding 30 mg/100 ml is punishable with imprisonment up to six months or fine for first offence.",
+    "source_file": "mv_act_18_drunk_driving.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "mv_act_279_rash_driving__0",
+    "title_meta": "MV Act Section 279 (IPC equivalent used with MVA)",
+    "text": "Rash or negligent driving on a public way endangering human life is punishable with imprisonment up to six months or fine.",
+    "source_file": "mv_act_279_rash_driving.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "ndps_possession_punishment__0",
+    "title_meta": "NDPS Act",
+    "text": "Possession, trafficking, and production of narcotic substances are severely punished under NDPS Act. [Summary]\nStrict penalties for drug-related offenses; wide-ranging enforcement powers.",
+    "source_file": "ndps_possession_punishment.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "neg_instruments_138_cheque_bounce__0",
+    "title_meta": "Negotiable Instruments Act Section 138",
+    "text": "Drawer of cheque may face criminal liability when cheque bounces for insufficiency of funds. [Summary]\nCheque bounce can have criminal penalties and civil remedies.",
+    "source_file": "neg_instruments_138_cheque_bounce.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "negotiable_instruments_cheque_bounce__0",
+    "title_meta": "Negotiable Instruments Act Section 138",
+    "text": "Where a cheque drawn by a person for payment of any debt or other liability is returned due to insufficient funds, the drawer may be punishable. [Summary]\nCheque bounce has criminal remedies under Section 138; included for financial harassment contexts.",
+    "source_file": "negotiable_instruments_cheque_bounce.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "nia_138_cheque_bounce__0",
+    "title_meta": "Negotiable Instruments Act Section 138",
+    "text": "Dishonour of cheque due to insufficient funds is punishable with imprisonment up to two years or fine up to twice the cheque amount. The payee must issue a notice within 30 days.",
+    "source_file": "nia_138_cheque_bounce.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "partition_law_family_property__0",
+    "title_meta": "Partition & Succession",
+    "text": "Rules for partition, inheritance and succession depend on personal laws and statutes. [Summary]\nExplains partition procedure and inheritance basics.",
+    "source_file": "partition_law_family_property.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "pocso_4_penetrative__0",
+    "title_meta": "POCSO Act Section 4",
+    "text": "Punishment for penetrative sexual assault shall be imprisonment not less than ten years, extendable to life imprisonment, and liable to fine.",
+    "source_file": "pocso_4_penetrative.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "pocso_7_sexual_assault__0",
+    "title_meta": "POCSO Act Section 7",
+    "text": "Sexual assault includes touching the vagina, penis, anus, or breast of a child, or making the child touch these parts, or doing any other act with sexual intent.",
+    "source_file": "pocso_7_sexual_assault.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "police_misconduct_complaints__0",
+    "title_meta": "Police Complaints & Oversight",
+    "text": "Mechanisms exist to file complaints against police misconduct; state police complaint authorities may apply. [Summary]\nOptions to complain about police excesses or procedural lapses.",
+    "source_file": "police_misconduct_complaints.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "posco_section_4_penalty__0",
+    "title_meta": "POCSO Section 4",
+    "text": "Punishment for penetrative sexual assault with minimum imprisonment and fines as specified. [Summary]\nCovers crimes involving children and strict punishments under POCSO.",
+    "source_file": "posco_section_4_penalty.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "posh_3_defiinition__0",
+    "title_meta": "Sexual Harassment of Women at Workplace Act Section 3",
+    "text": "Sexual harassment includes unwelcome acts such as physical contact, demands for sexual favours, showing pornography, or sexually coloured remarks.",
+    "source_file": "posh_3_defiinition.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "privacy_data_protection_note__0",
+    "title_meta": "Privacy, Data Protection & Personal Data Rules",
+    "text": "While a comprehensive Data Protection law is evolving, IT Act rules and other statutes regulate personal data handling. [Summary]\nExplains current privacy protections and potential statutory remedies.",
+    "source_file": "privacy_data_protection_note.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "privacy_rights_transmission_of_data__0",
+    "title_meta": "Privacy & Data Protection (interpretation)",
+    "text": "Unauthorized sharing of sensitive personal data may be actionable under IT Act rules and privacy frameworks. [Summary]\nSharing personal data without consent may violate privacy rules and IT Act provisions.",
+    "source_file": "privacy_rights_transmission_of_data.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "protection_of_women_domestic_violence_act__0",
+    "title_meta": "Protection of Women from Domestic Violence Act",
+    "text": "Provides civil remedies, protection orders, and maintenance for victims of domestic violence. [Summary]\nGives immediate protective relief (orders, residence rights) to victims.",
+    "source_file": "protection_of_women_domestic_violence_act.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "public_interest_disclosure_whistleblower__0",
+    "title_meta": "Whistleblower Protections",
+    "text": "Measures for reporting corruption or malpractice and protections for whistleblowers. [Summary]\nMechanisms for reporting wrongdoing and safeguards for reporters.",
+    "source_file": "public_interest_disclosure_whistleblower.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "rape_medical_exam_procedure__0",
+    "title_meta": "Medical & Evidence",
+    "text": "Guidelines exist for survivors' examination, evidence collection, and chain-of-custody for sexual assault cases. [Summary]\nProcedural safeguards for survivors and admissibility of forensic evidence.",
+    "source_file": "rape_medical_exam_procedure.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "rt_act_6_request__0",
+    "title_meta": "RTI Act Section 6",
+    "text": "A person seeking information shall make a request in writing or electronically to the Public Information Officer, specifying the information sought. No reasons for seeking information are required.",
+    "source_file": "rt_act_6_request.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "rti_7_time_limit__0",
+    "title_meta": "RTI Act Section 7",
+    "text": "Information must be provided within 30 days of the request. If information concerns life or liberty, it must be provided within 48 hours.",
+    "source_file": "rti_7_time_limit.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "sc_st_act_3_1_offences__0",
+    "title_meta": "SC/ST Act Section 3(1) — Atrocities",
+    "text": "Intentionally insulting, intimidating, assaulting, or dispossessing a member of SC/ST community due to caste is punishable with imprisonment not less than six months and up to five years.",
+    "source_file": "sc_st_act_3_1_offences.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "service_law_rights_termination__0",
+    "title_meta": "Service Law",
+    "text": "Rules for lawful termination, disciplinary hearings and remedies for wrongful dismissal. [Summary]\nProcedure for fair disciplinary process and appeals in employment.",
+    "source_file": "service_law_rights_termination.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "service_provider_liability_online_platforms__0",
+    "title_meta": "Platform Liability",
+    "text": "Intermediary liability rules set out takedown and safe-harbour conditions for platforms. [Summary]\nExplains when platforms are protected from liability and when they must act on complaints.",
+    "source_file": "service_provider_liability_online_platforms.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "terrorism_laws_unlawful_activities__0",
+    "title_meta": "UAPA & Terrorism Laws",
+    "text": "Severe provisions for terrorism-related offences with special procedure; stringent bail rules. [Summary]\nCovers anti-terror laws and special procedural provisions.",
+    "source_file": "terrorism_laws_unlawful_activities.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "trade_mark_copyright_overview__0",
+    "title_meta": "IPR",
+    "text": "Basics of registration, infringement, and remedies for IP rights (trademarks, copyright). [Summary]\nHigh-level overview of intellectual property protections and enforcement.",
+    "source_file": "trade_mark_copyright_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "traffic_offences_speeding_drunk_driving__0",
+    "title_meta": "Motor Vehicles Act",
+    "text": "Traffic rules, penalties for speeding, drunk driving, and vehicle offences including license suspensions. [Summary]\nRoad safety offences and penalties for drivers.",
+    "source_file": "traffic_offences_speeding_drunk_driving.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  },
+  {
+    "id": "workplace_posh_overview__0",
+    "title_meta": "POSH Act",
+    "text": "Employers must provide internal complaint committees and processes to address workplace sexual harassment. [Summary]\nEmployer obligations and internal remedies for workplace harassment.",
+    "source_file": "workplace_posh_overview.txt",
+    "source_url": "https://www.indiacode.nic.in/",
+    "last_updated": null
+  }
+]

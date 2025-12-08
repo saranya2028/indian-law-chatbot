@@ -1,0 +1,11 @@
+CrPC Section 41 | Code of Criminal Procedure, 1973 | Source: https://www.indiacode.nic.in/
+
+Any police officer may, without an order from a Magistrate and without a warrant, arrest any person:
+(a) who has committed a cognizable offence,
+(b) who is in possession of stolen property,
+(c) who obstructs a police officer in the execution of duty,
+(d) who is a proclaimed offender,
+(e) who commits a cognizable offence in the presence of the officer,
+(f) against whom credible information exists of involvement in a cognizable offence.
+
+Arrest should be made only when necessary and with recorded reasons.

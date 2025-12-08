@@ -1,0 +1,6 @@
+IT Act Section 66D | Cheating by personation by using computer resources | source: https://www.indiacode.nic.in/
+Whoever cheats or dishonestly induces any person by personation using a computer or network shall be punished with imprisonment or fine.
+
+[Summary]
+Using electronic means to impersonate or cheat is an offense under the IT Act.
+

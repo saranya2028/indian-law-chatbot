@@ -1,0 +1,9 @@
+Indian Contract Act Section 17 | Source: https://www.indiacode.nic.in/
+
+"Fraud" includes:
+(a) suggestion of untrue facts,
+(b) active concealment,
+(c) promise made without intention to perform,
+(d) any act fitted to deceive.
+
+A contract induced by fraud is voidable.
