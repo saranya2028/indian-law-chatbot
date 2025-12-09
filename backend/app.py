@@ -3,6 +3,7 @@ import os, json
 from flask import Flask, request, jsonify, send_from_directory
 from pathlib import Path
 from rank_bm25 import BM25Okapi
+from flask_cors import CORS
 from nltk.tokenize import word_tokenize, sent_tokenize
 import nltk
 nltk.download('punkt', quiet=True)
